@@ -5,7 +5,7 @@
 </div>
 <p align="left">
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danpaf" alt="Maxim-Siman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parsenok" alt="Maxim-Siman" /></a> </p>
 I'm currently learning .NET frameworks
 
 <div id="header" align="center">
